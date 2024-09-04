@@ -5,3 +5,26 @@ alpine:latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+busybox
+ubuntu
+redis
+postgres
+python
+node
+httpd
+mongo
+mysql
+rabbitmq
+traefik
+docker
+openjdk
+golang
+centos
+centos:7.6
+tocmat
+maven
+zookeeper
+java
+Docker Labs K8s Toolkit
+ubantu/kafka
+apache/kafka
