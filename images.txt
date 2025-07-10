@@ -3,5 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-node:20-alpine
-python:3.10-slim
+node:20
