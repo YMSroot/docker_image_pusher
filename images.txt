@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-sonarqube:2024.2-lta-community
+sonarqube:10.7.0-community
