@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker pull mysql:9.6.0
+docker pull mysql:9.6
